@@ -45,5 +45,16 @@
     <ClCompile Include="RacingCar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Car.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
