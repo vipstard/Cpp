@@ -63,6 +63,15 @@
     <ClCompile Include="CComStatic.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Mutable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFunctionTemplate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoTypeAddFunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Car.h">
