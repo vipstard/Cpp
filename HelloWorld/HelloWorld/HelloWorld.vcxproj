@@ -196,6 +196,7 @@
     <ClCompile Include="TwoTypeAddFunction.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="With_Mutext.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Car.h" />

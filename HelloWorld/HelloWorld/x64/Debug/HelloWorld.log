@@ -1,2 +1,4 @@
-﻿  PointMain.cpp
+﻿  With_Mutext.cpp
+C:\Users\Yoon DongIl\Desktop\윤동일\GIT\Cpp\HelloWorld\HelloWorld\With_Mutext.cpp(9,29): warning C4311: '형식 캐스트': 'LPVOID'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\Yoon DongIl\Desktop\윤동일\GIT\Cpp\HelloWorld\HelloWorld\With_Mutext.cpp(9,29): warning C4302: '형식 캐스트': 'LPVOID'에서 'int'(으)로 잘립니다.
   HelloWorld.vcxproj -> C:\Users\Yoon DongIl\Desktop\윤동일\GIT\Cpp\HelloWorld\x64\Debug\HelloWorld.exe
